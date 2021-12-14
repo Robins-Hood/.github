@@ -4,11 +4,11 @@
     <defs>
         <style>
             #Text {
-                fill: #F5F4F2;
+                fill: #212121;
             }
             @media (prefers-color-scheme: dark) {
                 #Text {
-                    fill: #212121;
+                    fill: #F5F4F2;
                 }
             }
         </style>
